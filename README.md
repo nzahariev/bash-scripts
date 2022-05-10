@@ -10,3 +10,5 @@ DONT FORGET TO MAKE THE FILE EXECUTABLE: sudo chmod +x <script_name>.sh
 ./ssl-expiration-check.sh facebook.com
 
 ./website-status-check.sh facebook.com
+
+# If you have error when checking domain expiration - copy the content of whois.conf to your .conf file :)
