@@ -1,7 +1,8 @@
 Tested on CentOS7
 
-Usage of domain-expiration-check.sh
+DONT FORGET TO MAKE THE FILE EXECUTABLE: sudo chmod +x <script_name>.sh
 
-DONT FORGET TO MAKE THE FILE EXECUTABLE: sudo chmod +x domain-expiration-check.sh
-
+# Example usage
 ./domain-expiration-check.sh <domain_name>
+
+./domain-expiration-check.sh facebook.com
