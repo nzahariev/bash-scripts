@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Will display "up" or "down" as a current status of the website
 FAIL_CODE=6
 
 check_status(){
